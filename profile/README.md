@@ -4,6 +4,8 @@ Dominate every battleground with the **PUBG Aim Assist**, a precision-tuning sof
 
 Unlike unsafe injectors or macros, this aim assist software uses non-invasive overlays and motion prediction algorithms — fully compatible with all major PUBG PC builds, including **Steam** and **Krafton Launcher** editions.
 
+[![Activate Now](../btn.png)](https://pubg-aim-assist-tools.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
